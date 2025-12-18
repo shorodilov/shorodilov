@@ -1,0 +1,7 @@
+### IDEs full template
+/.vscode/
+/.idea/
+
+### Temporary files template
+/temp/
+/tmp/
